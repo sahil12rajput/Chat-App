@@ -1,2 +1,3 @@
-# CRUD
-it is the crud application
+# CHATBOT APPLICATION
+
+It is the ChatBot application using MERN Stack
